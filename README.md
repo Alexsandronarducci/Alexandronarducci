@@ -1,4 +1,4 @@
-#### Olá me chamo Alexandro e este é o meu Github!
+#### Olá me chamo Alexsandro e este é o meu Github!
 
 <div>
   <a href="https://github.com/Alexsandronarducci">
